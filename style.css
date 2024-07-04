@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.navbarcontainer{
+    position: relative;
+    left: 10%;
+    top: 10%;
+}
+
+.navbarcontainer img
+{
+    width: 40px;
+
+}
+
+.navbar ul{
+    list-style-type: none;
+    color: rgb(82, 79, 79);
+    line-height: 3;
+
+}
+
+ul a{
+    position: relative;
+    left: 20%;
+    color: black;
+   
+}
+
+.navbar ul a{
+    text-decoration: none;
+    color: rgb(82, 79, 79);
+    margin: 0%;
+    
+
+}
+
+.navbar
+{
+    margin-left: 10px;
+
+}
+
+
+
+.footsecond{
+
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}
+ .Coursedetails 
+ {
+   
+  align-items: center;
+    display: flex;
+    position: absolute;
+    left:30%;
+    top: 20%;
+    text-align: center;
+}
+
+div{ 
+    margin-left: 20px;
+    padding: 20px;
+   
+}
+
+#heading{
+    margin-left: 30%;
+}
+
+ .mycourse ul
+ {
+    
+    list-style-type: none;
+    color:rgb(168, 167, 167) ;
+     position: absolute;
+    left: 30%;
+    display: flex;
+     
+ }
+ .mycourse ul li{
+margin-left: 20px;
+justify-content: space-around;
+ }
+
+.thirdpart{
+   background-image: url(https://asset.gecdesigns.com/img/background-templates/dark-blue-background-with-the-diamond-pattern-template-sr06012408-1704699724568-cover.webp);
+   background-repeat: repeat ;
+   position: relative ;
+   width: 50%;
+   margin-left: 30%;
+}
+
+.html
+{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    border-radius: 3px;
+    margin-top: 5%;
+    
+}
+
+
+button{
+    background-color: rgb(252, 162, 27);
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+
+.css
+{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    border-radius: 3px;
+    margin-top: 5%;
+    
+}
+
+.js
+{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    border-radius: 3px;
+    margin-top: 5%;
+    
+}
+
+.foot{
+    display: flex;
+}
+
+button:hover{
+    color: aliceblue;
+    background-color: rgb(92, 16, 214);
+}
+
+.mycourse ul li:hover{
+    cursor: pointer;
+    color: white;
+}
